@@ -5,10 +5,10 @@
 
 Admin Crud resource builder for Laravel 8, from backend API to UI with help of [Vuetify Admin](https://github.com/okami101/vuetify-admin), a 100% SPA separated Vue CLI admin panel builder based on Vuetify.
 
-> See [full documentation](https://www.okami101.io/vuetify-admin)  
-> Check [online demo](https://va-demo.okami101.io) -> go to admin and use pre-filled login (read only)  
+> See [full documentation](https://www.anticopyright.my.id/vuetify-admin)  
+> Check [online demo](https://anticopyright.my.id) -> go to admin and use pre-filled login (read only)  
 
-[![demo](https://www.okami101.io/vuetify-admin/assets/screenshot.png)](https://va-demo.okami101.io)
+[![demo](https://www.okami101.io/vuetify-admin/assets/screenshot.png)](https://anticopyright.my.id)
 
 ## Features
 
@@ -36,15 +36,15 @@ See [dedicated readme](https://github.com/okami101/vuetify-admin#features) of Vu
 Use `laravel new my-laravel-admin-app` to initialize a new Laravel 8 project then :
 
 ```bash
-composer require okami101/laravel-admin
+composer require anticopyright-code/admin
 php artisan admin:install
 ```
 
-See [dedicated guide](https://www.okami101.io/vuetify-admin/guide/laravel.html) for full showcase.
+See [dedicated guide](anticopyright-code) for full showcase.
 
 ## Documentation
 
-Documentation for Vuetify Admin can be found on the [Okami101 website](https://www.okami101.io/vuetify-admin).
+Documentation for Vuetify Admin can be found on the [Okami101 website](anticopyright-code).
 
 ## License
 
